@@ -2,9 +2,9 @@
 
 * [Вебсайт күп телле документлар](https://github.com/xxai-doc)
 
-Вебсайтның алгы коды ачык чыганак, тәрҗемәне оптимальләштерергә ярдәм итегез
+Вебсайтның фронтенд коды ачык чыганак, тәрҗемәне оптимальләштерергә ярдәм итегез
 
-* [алгы код](https://github.com/xxai-art/web)
+* [Фронтенд коды](https://github.com/xxai-art/web)
 * [Тулаем алганда сайт өчен тел пакетлары](https://github.com/xxai-art/web/tree/main/i18n)
 * [Логин модульләре өчен тел пакетлары](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Вебсайт күп телле документлар](https://github.com/xxai-doc)
